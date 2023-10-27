@@ -1,5 +1,10 @@
-### Hi there 👋
+# ¡Hola a todos! Soy Illán Martínez.
 
+- 📖 Soy estudiante de Ingeniería Informática, en su cuarto año de carrera
+- 🌱 Estoy cursando la rama de Ingeniería del Software
+- 🛡️ Interesado por la ciberseguridad y sistemas
+- 🐧 Apasionado de Linux
+- 🌐 Puedes encontrar mi CV dando [clic aquí](https://illanmartinez.es)
 <!--
 **developwannabe/developwannabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
