@@ -4,7 +4,8 @@
 - 🌱 Estoy cursando la rama de Ingeniería del Software
 - 🛡️ Interesado por la ciberseguridad y sistemas
 - 🐧 Apasionado de Linux
-- 🌐 Puedes encontrar mi CV dando [clic aquí](https://illanmartinez.es) (En construcción :) )
+- 🌐 Puedes encontrar mi CV dando [clic aquí](https://illanmartinez.es) ( En construcción :) )
+- 🏛️ Mi último trabajo [clic aquí](https://procesossoftware-ee3xtzbp7a-ew.a.run.app/) ( En proceso :) )
 <!--
 **developwannabe/developwannabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
