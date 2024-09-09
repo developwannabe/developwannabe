@@ -1,23 +1,8 @@
 # ¡Hola a todos! Soy Illán Martínez.
 
-- 📖 Soy estudiante de Ingeniería Informática, en su cuarto año de carrera
-- 👨‍🏭 Actualmente estoy en NTT Data como Student 1
-- 🌱 Estoy cursando la rama de Ingeniería del Software
+- 📖 Soy estudiante del Máster Universitario en Ingeniería del Software
+- 👨‍🏭 Actualmente trabajo en Indra como Ingeniero de Software
+- 🌱 He cursado la rama de Ingeniería del Software en la carrera
 - 🛡️ Interesado por la ciberseguridad y sistemas
 - 🐧 Apasionado de Linux
-- 🌐 Puedes encontrar mi CV dando [clic aquí](https://illanmartinez.es) ( En construcción :) )
-- 🏛️ Mi último trabajo [clic aquí](https://procesosfront-ee3xtzbp7a-ew.a.run.app/) 
-<!--
-**developwannabe/developwannabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Puedes encontrar mi CV dando [clic aquí](https://illanmartinez.es)
